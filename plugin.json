@@ -1,0 +1,6 @@
+{
+  "name": "chat-quote",
+  "displayName": "Chat Quote & Notes",
+  "description": "View clean text-only conversation history in the side panel, quote or annotate any message, and send follow-ups directly to the Agent.",
+  "version": "1.0.0"
+}
